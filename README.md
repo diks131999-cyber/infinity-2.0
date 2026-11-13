@@ -1,19 +1,30 @@
 # INFINITY 2.0
-Responsive multi-page society website with an Avengers-inspired visual theme, a text-only Heroverse spotlight, clickable event detail pages, clickable domain pages, team placeholders and supplied event visuals.
 
-## Run
-Open this folder in VS Code and run `index.html` with Live Server.
+A functional frontend concept for INFINITY – The Tech Society,
+SGGSCC.
 
-## Vercel
-Import the project/repository. Choose Framework Preset `Other`. No build command or output directory is required.
+## Live Demo
+[Open Website](YOUR-GITHUB-PAGES-LINK)
 
-## Notes
-The Heroverse is a fan-inspired text-only feature; no official Marvel artwork or logos are used. The custom infinity logo is a concept mark, not an official society logo. Team cards are placeholders. Check event facts and replace cropped screenshot visuals with original approved images if available.
+## Features
+- Responsive landing page
+- Events showcase
+- Team section
+- Gallery
+- Interactive UI
+- Avengers-inspired team presentation
 
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-## Added visual assets
-- `assets/avengers/avengers-working.png` — Avengers-inspired working/team visual
-- `assets/team/team-photo-1.png` and `team-photo-2.png` — supplied team photos
-- `assets/logo.svg` — local logo so the project works without a missing logo asset
+## AI Development
+AI tools were used during development.
+The primary development prompt is available in
+PRIMARY_PROMPT.md.
 
-Open `index.html` with Live Server in VS Code.
+## Originality
+This project is an original frontend concept developed for the
+INFINITY frontend challenge and does not intentionally reproduce
+another team's work.
